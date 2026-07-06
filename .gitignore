@@ -1,0 +1,19 @@
+# 环境变量配置（真实 Token 填这里）
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 数据与日志
+data/*.json
+data/*.md
+logs/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
